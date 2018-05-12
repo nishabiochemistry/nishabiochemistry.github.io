@@ -1,0 +1,97 @@
+bbbrain.relatedTerms.processData({"results": {
+  "concepts": {"concept": [
+    {
+      "clickurl": "http://topictorch.netseer.com/dsatserving2/servlet/clickforward?tlid=22509&iid=imp6eaeddfbd0469fb8&url=http%3A%2F%2Fnishasingh.netau.net%2FEducation.htm&cvis=Cheap+Cruises&chash=-3575299491906153889&rmode=4&chimg=1&vid=usr6cf0bb1d12679795&evid=sehc099bd81619d4174b1ef81d828e&qtype=c&impt=16&plid=33&ip=117.254.240.28&ua=Mozilla%2F5.0+%28Windows+NT+6.1%3B+rv%3A26.0%29+Gecko%2F20100101+Firefox%2F26.0&imps=23&params=segment%3Did49864&cltp=1&favi=1&cimg=128",
+      "id": -3575299491906153889,
+      "img": {
+        "attribution": "//topictorch.netseer.com/dsatserving2/tools/attribution.jsp?nslp=H4sIAAAAAAAAABVPy2rEMAz8muhSusSPONbBh2Xb_ocfSmyIs27sBPr3dWAQMxo0aNqWguF8GhFSZykXRZZCWFwYpcLFaTiPzcTWyiCeA__p2FONtqZ9jY-dmj3v2dff4fS2pff-iC2Dv1I1r0i2fLyOM1Wq4PtVNJ9imieOKJHhqNgktEY48juQkXD1H856KL-MzrHAuJpxxgnoNipFPyK6oJliGCSbpWO0aBY01wS_7a-QWaF3aIYpKHc1IW5dDRdQ7GFz7Slrpr0N4isFiVpJ8FsrRsFir2QY-JRXw7j-B5Df4ooaAQAA",
+        "url": "//img-c.ns-img.com/cimg/img_-3575299491906153889_128.png"
+      },
+      "visible": "Cheap Cruises"
+    },
+    {
+      "clickurl": "http://topictorch.netseer.com/dsatserving2/servlet/clickforward?tlid=22509&iid=imp6eaeddfbd0469fb8&url=http%3A%2F%2Fnishasingh.netau.net%2FEducation.htm&cvis=Last+Minute+Hotel+Deals&chash=-8413314446973159129&cpos=1&rmode=4&chimg=1&vid=usr6cf0bb1d12679795&evid=sehc099bd81619d4174b1ef81d828e&qtype=c&impt=16&plid=33&ip=117.254.240.28&ua=Mozilla%2F5.0+%28Windows+NT+6.1%3B+rv%3A26.0%29+Gecko%2F20100101+Firefox%2F26.0&imps=23&params=segment%3Did49864&cltp=1&favi=1&cimg=128",
+      "id": -8413314446973159129,
+      "img": {
+        "attribution": "//topictorch.netseer.com/dsatserving2/tools/attribution.jsp?nslp=H4sIAAAAAAAAABVPy2rFIBD9mszm0ktGjdGFi8Jt6aL9CKOTRMjDxkmgf18Dw2EezHnwkqITomstpNqlNWvyFOM4xFZpOw4GzmNxM3Nu5HsjPmttqcy-pG2anxuxP2-s6494Bs9p354zrxCuVNy3L_z4SdvJ9PjamZbHi_xSINT_2b0ZhVKiUlWol9hZFBZC3otDONY9klNwVVNnOXQY22HAiEL3trcd0H0oNIfW2iEa1Gijwl4NSKPBaIQh-OW_TG6CGoodash3VinvuTghIfvDr6WyTCtt3MhXisoarSAsnJ2G0V-pWglpnRwK8w8Ar-VWKwEAAA",
+        "url": "//img-c.ns-img.com/cimg/img_-8413314446973159129_128.png"
+      },
+      "visible": "Last Minute Hotel Deals"
+    },
+    {
+      "clickurl": "http://topictorch.netseer.com/dsatserving2/servlet/clickforward?tlid=22509&iid=imp6eaeddfbd0469fb8&url=http%3A%2F%2Fnishasingh.netau.net%2FEducation.htm&cvis=Pre-owned+Vehicles&chash=-5019976605521453438&cpos=2&rmode=4&chimg=1&vid=usr6cf0bb1d12679795&evid=sehc099bd81619d4174b1ef81d828e&qtype=c&impt=16&plid=33&ip=117.254.240.28&ua=Mozilla%2F5.0+%28Windows+NT+6.1%3B+rv%3A26.0%29+Gecko%2F20100101+Firefox%2F26.0&imps=23&params=segment%3Did49864&cltp=1&favi=1&cimg=128",
+      "id": -5019976605521453438,
+      "img": {
+        "attribution": "//topictorch.netseer.com/dsatserving2/tools/attribution.jsp?nslp=H4sIAAAAAAAAABVPy27EIAz8mvhS7YpXCBw4rNT23FPvPJyAFBIaSKr-fYlkWZ4Z2eNpawqGsZFoSH1KuUi0GMLsAhFSz07BeawmtlYG_hrYZ68t1Whr2pb43LDZ8-6d_ginty3t2zO2DP5K1Xwd-Nh_Nwxv3xiTX7GC76vRPEZCtZ6kJOPIqBi54Ap82athcOQ9oBFw9X_Oekg_E-dooExOetIj4C1UjJ5o7YKikuog6CQcxVnRoJhC-Gl_Bc0CPU8zVEK5Y3J-427BodjD5tqvLBm3NvD3FIRWUoBfWzESZnslQ8GnvBjK1D89a0piJgEAAA",
+        "url": "//img-c.ns-img.com/cimg/img_-5019976605521453438_128.png"
+      },
+      "visible": "Pre-owned Vehicles"
+    },
+    {
+      "clickurl": "http://topictorch.netseer.com/dsatserving2/servlet/clickforward?tlid=22509&iid=imp6eaeddfbd0469fb8&url=http%3A%2F%2Fnishasingh.netau.net%2FEducation.htm&cvis=Online+Bachelor+Degree&chash=-4691512020572767047&cpos=3&rmode=4&chimg=1&vid=usr6cf0bb1d12679795&evid=sehc099bd81619d4174b1ef81d828e&qtype=c&impt=16&plid=33&ip=117.254.240.28&ua=Mozilla%2F5.0+%28Windows+NT+6.1%3B+rv%3A26.0%29+Gecko%2F20100101+Firefox%2F26.0&imps=23&params=segment%3Did49864&cltp=1&favi=1&cimg=128",
+      "id": -4691512020572767047,
+      "img": {
+        "attribution": "//topictorch.netseer.com/dsatserving2/tools/attribution.jsp?nslp=H4sIAAAAAAAAABVPy27EIBD7msxl1RUQwuPAYattr_0GApOAFAgNJFL_vkQajcYe2bLbFr1hbCIaYr9iKgIter_MnnChl1nBeWwmtFaG8TWw7z451mBrzGt4Zmz2vHenv_zpbIt7foaWwF2xmp-8xYyPT-sCbvvxeON6IILr8mA-uj-dKCOMTJJJIQmX4MpezQhH2j0aDlfPdNZDuIXMM_WUCamlngDvR8XgiNazV1RQ7TmVfKa4KOoVUwi_7a-gWaF3aoYKKHfVcbxxNWyEYg-bandZE-Y2jO_ouVaCg9taMQIWe0VDwcW0GsrUPy9mKFIqAQAA",
+        "url": "//img-c.ns-img.com/cimg/img_-4691512020572767047_128.png"
+      },
+      "visible": "Online Bachelor Degree"
+    },
+    {
+      "clickurl": "http://topictorch.netseer.com/dsatserving2/servlet/clickforward?tlid=22509&iid=imp6eaeddfbd0469fb8&url=http%3A%2F%2Fnishasingh.netau.net%2FEducation.htm&cvis=New+Cell+Phone&chash=4048972352741666928&cpos=4&rmode=4&chimg=1&vid=usr6cf0bb1d12679795&evid=sehc099bd81619d4174b1ef81d828e&qtype=c&impt=16&plid=33&ip=117.254.240.28&ua=Mozilla%2F5.0+%28Windows+NT+6.1%3B+rv%3A26.0%29+Gecko%2F20100101+Firefox%2F26.0&imps=23&params=segment%3Did49864&cltp=1&favi=1&cimg=128",
+      "id": 4048972352741666928,
+      "img": {
+        "attribution": "//topictorch.netseer.com/dsatserving2/tools/attribution.jsp?nslp=H4sIAAAAAAAAABVPyW7FIAz8mvjypKewhMCBw1OXY9VfYHECUiA0kFT9-xLJsmfG8sjTtug1pdOoIHYUUxFo0PvF-pELtVgJ57Hp0FoZ2Gugn71yrMHUmNfwzNjMefcuf_jTmRb3_Awtgbti1V_4-3jDbXt8hz0juH4WNB-5VDNlE505EUIoKsGVvWoOR9o99nn1V856CLeM1hJPqJjVrCbAe1ExuFEp6yURRHlOZm4JLpJ4SSXCT_srqFfoUZomAsqdkLGbV00ZFHOYVLvLmjC3gb1Hz5UUHNzWihawmCtqAi6mVRMq_wE4eO5yIQEAAA",
+        "url": "//img-c.ns-img.com/cimg/img_4048972352741666928_128.png"
+      },
+      "visible": "New Cell Phone"
+    },
+    {
+      "clickurl": "http://topictorch.netseer.com/dsatserving2/servlet/clickforward?tlid=22509&iid=imp6eaeddfbd0469fb8&url=http%3A%2F%2Fnishasingh.netau.net%2FEducation.htm&cvis=Easy+Appetizer+Recipes&chash=-358025759170705351&cpos=5&rmode=4&chimg=1&vid=usr6cf0bb1d12679795&evid=sehc099bd81619d4174b1ef81d828e&qtype=c&impt=16&plid=33&ip=117.254.240.28&ua=Mozilla%2F5.0+%28Windows+NT+6.1%3B+rv%3A26.0%29+Gecko%2F20100101+Firefox%2F26.0&imps=23&params=segment%3Did49864&cltp=1&favi=1&cimg=128",
+      "id": -358025759170705351,
+      "img": {
+        "attribution": "//topictorch.netseer.com/dsatserving2/tools/attribution.jsp?nslp=H4sIAAAAAAAAABVPW4rEIBA8Tfpn2MF39MOPgZ09wN7AaCcKY-JEE5g9_Rpomq4qqqlqrxQsY5IYSP1KuSh0GMI8BSKUmScNx_6ysbUy8MfAfvqsqUZX07rE-4rNHdfu9DMc3rW0rffYMvgzVft09XN7lIIt_eF--0WfClbw3R7tF5eaMDlKQ0cyEsklBV-2aiXseQtoBZw90lF35WcyTTRQpkYzGgl4CRWjJ8ZMQVNFTRB0FBPFWdOgmUZ4t09Bu0Cv1CxVUK6mnF-4WsahuN3l2r8sGdc28O8UhNFKgH-1YhXM7ky2J0p5sZTpfwvBce4pAQAA",
+        "url": "//img-c.ns-img.com/cimg/img_-358025759170705351_128.png"
+      },
+      "visible": "Easy Appetizer Recipes"
+    },
+    {
+      "clickurl": "http://topictorch.netseer.com/dsatserving2/servlet/clickforward?tlid=22509&iid=imp6eaeddfbd0469fb8&url=http%3A%2F%2Fnishasingh.netau.net%2FEducation.htm&cvis=Wireless+Internet+Service&chash=6559621726423383695&cpos=6&rmode=4&chimg=1&vid=usr6cf0bb1d12679795&evid=sehc099bd81619d4174b1ef81d828e&qtype=c&impt=16&plid=33&ip=117.254.240.28&ua=Mozilla%2F5.0+%28Windows+NT+6.1%3B+rv%3A26.0%29+Gecko%2F20100101+Firefox%2F26.0&imps=23&params=segment%3Did49864&cltp=1&favi=1&cimg=128",
+      "id": 6559621726423383695,
+      "img": {
+        "attribution": "//topictorch.netseer.com/dsatserving2/tools/attribution.jsp?nslp=H4sIAAAAAAAAABVPTWvFIBD8NW8vDx7xI0YPHgptoeceevZjE4VorJpA_30NLMvO7DDM9D16Tek8KYjjiqkINOj9av3EhVqthLPuOvReHuztQT_H5NiCaTFv4ZWxm_Peg_7wpzM9HvkVegJ3xaZ_YsUdW3t-5Y51yJ7fWK_oENxwCFrMsxKULFRwyphkQs3gytG0gJoOj5rDNVKdrQq3TtYST6hY1DJkeD8aBjcpZb0kgijPycItwVUSL6lE-O1_BfUGo1XXREC5yzJ246Ypg2KqSW24bAlzf7D36LmSgoPbexkZVnNFTcDFtGlC5T_IiISgLAEAAA",
+        "url": "//img-c.ns-img.com/cimg/img_6559621726423383695_128.png"
+      },
+      "visible": "Wireless Internet Service"
+    },
+    {
+      "clickurl": "http://topictorch.netseer.com/dsatserving2/servlet/clickforward?tlid=22509&iid=imp6eaeddfbd0469fb8&url=http%3A%2F%2Fnishasingh.netau.net%2FEducation.htm&cvis=Crossover+SUV&chash=995789620314985595&cpos=7&rmode=4&chimg=1&vid=usr6cf0bb1d12679795&evid=sehc099bd81619d4174b1ef81d828e&qtype=c&impt=16&plid=33&ip=117.254.240.28&ua=Mozilla%2F5.0+%28Windows+NT+6.1%3B+rv%3A26.0%29+Gecko%2F20100101+Firefox%2F26.0&imps=23&params=segment%3Did49864&cltp=1&favi=1&cimg=128",
+      "id": 995789620314985595,
+      "img": {
+        "attribution": "//topictorch.netseer.com/dsatserving2/tools/attribution.jsp?nslp=H4sIAAAAAAAAABVPSWrEMBB8jfsSGKzFsnToQ0hmPhCSuzZbAstWJNmQ30eGpuitiqq2RYeUTqOC2LuYsvDaO7cYN3KhFiPhLBuG1vLA3gf66rXHGnSN-xoeu2_6vLGvn-60usVjf4SWwF6x4kc5aj0uX96-vn_AdlZApaZZKkFHRriS06QmsPmoOENJh_PI4epGzlqEXUZjiCNUzGrub_4-VB_sqJRxkgiiHCczN8QvkjhJpYff9pc9rtCDNCQC8p2PsXuuSBlkXXSqXWVNfm8D-4yuuxAc7NYyClj0FZGAjWlFQuU_jbeL-x8BAAA",
+        "url": "//img-c.ns-img.com/cimg/img_995789620314985595_128.png"
+      },
+      "visible": "Crossover SUV"
+    },
+    {
+      "clickurl": "http://topictorch.netseer.com/dsatserving2/servlet/clickforward?tlid=22509&iid=imp6eaeddfbd0469fb8&url=http%3A%2F%2Fnishasingh.netau.net%2FEducation.htm&cvis=Free+Cell+Phone+Offers&chash=324271933737007000&cpos=8&rmode=4&chimg=1&vid=usr6cf0bb1d12679795&evid=sehc099bd81619d4174b1ef81d828e&qtype=c&impt=16&plid=33&ip=117.254.240.28&ua=Mozilla%2F5.0+%28Windows+NT+6.1%3B+rv%3A26.0%29+Gecko%2F20100101+Firefox%2F26.0&imps=23&params=segment%3Did49864&cltp=1&favi=1&cimg=128",
+      "id": 324271933737007000,
+      "img": {
+        "attribution": "//topictorch.netseer.com/dsatserving2/tools/attribution.jsp?nslp=H4sIAAAAAAAAABVPy27EIBD7mswl0orXEjhwWLXda_sLBIaAFBIaSKT-fYlkjca2ZmS3NXnD2JNoSH1LuUi06H2YPRFSh1nBeawmtlYG_hrYu2NLNdqatiU-Nmz2vGeXv_zpbEv79ogtg7tSNe8DcfzAdR1_4r7h-B0CHhVcP4-GM8Emqjmf-ERIBwFX9moUHHn3aARcPdFZD-kCmWfqKZOTnvQT8DYqRke0nr2ikmov6CRmikFRr5hC-G1_Bc0CvVEzVEK5i3J-82oYh2IPm2v_smTc2sA_kxdaSQFubcVICPZKhoJLeTGUqX_H3kYwKAEAAA",
+        "url": "//img-c.ns-img.com/cimg/img_324271933737007000_128.png"
+      },
+      "visible": "Free Cell Phone Offers"
+    },
+    {
+      "clickurl": "http://topictorch.netseer.com/dsatserving2/servlet/clickforward?tlid=22509&iid=imp6eaeddfbd0469fb8&url=http%3A%2F%2Fnishasingh.netau.net%2FEducation.htm&cvis=Healthy+Dessert+Recipes&chash=8103650129396115050&cpos=9&rmode=4&chimg=1&vid=usr6cf0bb1d12679795&evid=sehc099bd81619d4174b1ef81d828e&qtype=c&impt=16&plid=33&ip=117.254.240.28&ua=Mozilla%2F5.0+%28Windows+NT+6.1%3B+rv%3A26.0%29+Gecko%2F20100101+Firefox%2F26.0&imps=23&params=segment%3Did49864&cltp=1&favi=1&cimg=128",
+      "id": 8103650129396115050,
+      "img": {
+        "attribution": "//topictorch.netseer.com/dsatserving2/tools/attribution.jsp?nslp=H4sIAAAAAAAAABVPQYrEIBB8TfoyMNiaGD14GJhd9rw_MNqJQkzcaALz-zVQNFVddNFV1-gN5wPTEBuLKUuy5P08edZLPU8KzmM1odbciVfHvxu2WIItcVvCc6Nqz3u29Zc_na1x356hJnBXLOaH7FrD5_GmUuioj19yMVMB1-6DUciEHBhyLbREHNjAwOW9GA1H2j2ZHq7201kO6WY2TeiRy1GPegC6jULBMa0nr1Ci9j2O_YQ0K_SKK4K_-slkFmidqkEJ-a4qxK2L4QKyPWwqLWVJtNVOvKPvtZI9uLVmI2G2VzQILqbFIFf_9bcibCoBAAA",
+        "url": "//img-c.ns-img.com/cimg/img_8103650129396115050_128.png"
+      },
+      "visible": "Healthy Dessert Recipes"
+    }
+  ]},
+  "lead-parameters": "nslp=H4sIAAAAAAAAAI1QTU_EIBD9NeVkWKBsFw4cNOt60njYxDMU2qJ8NEBX4693qn_A5GWYmbz3ZobS1HvNab0zxhTtEy4u6Obs1ZVY8Vry6Go966aRj2tTlO5vVaxHLXirGDsSibYS1NLa2vX3HbsAkq-Lrj7NC06u6W2P0H6026ibzwkvLaLipn-pXjcT_J-u_go3rZ7ztw9BH46YdAwg3nyy-bNC8XKFMGDa9Q-QlBvYs2GnSSif3PiRD4xQAqDQuHhYI38ddgryKxx4wuzIMeMEM4HcDY6sbhmJlMYKOlBpOT1xQ90kqBVMOLTqomMF1hxdal1_9pZLMXA06ZtXFI0-zoqCWchzVDAFLOETB6edtZOxhA9yMuIHkvxTl4oBAAA",
+  "results-type": "STATIC_GENERAL",
+  "search-url": "http://topictorch.netseer.com/dsatserving2/servlet/clickforward?tlid=22509&iid=imp6eaeddfbd0469fb8&url=http%3A%2F%2Fnishasingh.netau.net%2FEducation.htm&vid=usr6cf0bb1d12679795&evid=sehc099bd81619d4174b1ef81d828e&qtype=s&rmode=25&advs=0&impt=16&imps=23&params=segment%3Did49864&cltp=2&plid=33&ip=117.254.240.28&ua=Mozilla%2F5.0+%28Windows+NT+6.1%3B+rv%3A26.0%29+Gecko%2F20100101+Firefox%2F26.0&favi=1&cvis=NETSEERQUERY"
+}});
